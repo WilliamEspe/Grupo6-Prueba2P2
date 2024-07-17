@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');
+
+.wow-title {
+    font-family: 'Cinzel', serif;
+    color: #e2b007;
+    /* Similar a los colores de World of Warcraft */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
